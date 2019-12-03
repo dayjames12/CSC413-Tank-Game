@@ -2,11 +2,20 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="csc413-secondgame-dayjames12:jar" />
+      <artifact name="csc413-tankgame-dayjames12:jar" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57d0bd52-80ce-49ac-abcf-e03ab22cc3dd" name="Default Changelist" comment="" />
+    <list default="true" id="a1141f4d-d8ef-4259-a060-1ea4a19fa0d9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/out/production/csc413-tankgame-dayjames12/com/term/tankgame/Camera.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/csc413-tankgame-dayjames12/com/term/tankgame/Camera.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/csc413-tankgame-dayjames12/com/term/tankgame/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/csc413-tankgame-dayjames12/com/term/tankgame/Game.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/csc413-tankgame-dayjames12/com/term/tankgame/Spawn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/csc413-tankgame-dayjames12/com/term/tankgame/TileLayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/term/tankgame/Camera.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/term/tankgame/Camera.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/term/tankgame/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/term/tankgame/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/term/tankgame/Spawn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/term/tankgame/TileLayer.java" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,124 +24,90 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.3911187">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/com/term/secondGame/Game.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="230">
-                  <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/com/term/secondGame/Handler.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="276">
-                  <caret line="13" selection-start-line="13" selection-end-line="13" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/com/term/secondGame/KeyInput.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="345">
-                  <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
-                  <folding>
-                    <element signature="e#403#404#0" expanded="true" />
-                    <element signature="e#506#507#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/com/term/secondGame/ID.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="138">
-                  <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/com/term/secondGame/GameObject.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="690">
-                  <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/com/term/secondGame/Katch.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="345">
-                  <caret line="15" column="49" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/com/term/secondGame/Pop.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="966">
-                  <caret line="42" column="18" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/com/term/secondGame/Bricks/Block.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="920">
-                  <caret line="46" column="52" selection-start-line="46" selection-start-column="52" selection-end-line="46" selection-end-column="52" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/com/term/secondGame/Bricks/Wall.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="483">
-                  <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                    <element signature="e#575#576#0" expanded="true" />
-                    <element signature="e#653#654#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/term/tankgame/Tank.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3358">
+              <caret line="149" column="34" selection-start-line="149" selection-start-column="34" selection-end-line="149" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/term/tankgame/Game.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3427">
+              <caret line="155" selection-start-line="155" selection-end-line="155" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/term/tankgame/Camera.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="314">
+              <caret line="22" column="53" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/term/tankgame/Handler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/term/tankgame/HUD.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="989">
+              <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/term/tankgame/BufferedImageLoader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/term/tankgame/KeyInput.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/term/tankgame/GameObject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -148,29 +123,36 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com.term.main/main.java" />
-        <option value="$PROJECT_DIR$/src/com.term.main/Main.java" />
-        <option value="$PROJECT_DIR$/src/com.term.main/Game.java" />
-        <option value="$PROJECT_DIR$/src/secondGame/Game.java" />
-        <option value="$PROJECT_DIR$/src/com/term/secondGame/BufferedImageLoader.java" />
-        <option value="$PROJECT_DIR$/src/com/term/secondGame/KeyInput.java" />
-        <option value="$PROJECT_DIR$/src/com/term/secondGame/Bricks/SolidBlock.java" />
-        <option value="$PROJECT_DIR$/src/com/term/secondGame/Bricks/ColorBlock.java" />
-        <option value="$PROJECT_DIR$/src/com/term/secondGame/ID.java" />
-        <option value="$PROJECT_DIR$/src/com/term/secondGame/Handler.java" />
-        <option value="$PROJECT_DIR$/src/com/term/secondGame/GameObject.java" />
-        <option value="$PROJECT_DIR$/src/com/term/secondGame/Game.java" />
-        <option value="$PROJECT_DIR$/src/com/term/secondGame/Bricks/Block.java" />
-        <option value="$PROJECT_DIR$/src/com/term/secondGame/Bricks/Wall.java" />
-        <option value="$PROJECT_DIR$/src/com/term/secondGame/Katch.java" />
-        <option value="$PROJECT_DIR$/src/com/term/secondGame/Pop.java" />
+        <option value="$PROJECT_DIR$/src/com/term/tankgame/TankGameObject.java" />
+        <option value="$PROJECT_DIR$/src/com/term/tankgame/Trail.java" />
+        <option value="$PROJECT_DIR$/src/com/term/tankgame/TankGame.java" />
+        <option value="$PROJECT_DIR$/src/com/term/tankgame/Player.java" />
+        <option value="$PROJECT_DIR$/src/com/term/tankgame/Enemy.java" />
+        <option value="$PROJECT_DIR$/src/com/term/tankgame/Specials.java" />
+        <option value="$PROJECT_DIR$/src/com/term/tankgame/NewHUD.java" />
+        <option value="$PROJECT_DIR$/src/com/term/tankgame/DrawPanel.java" />
+        <option value="$PROJECT_DIR$/Tile/map.txt" />
+        <option value="$PROJECT_DIR$/src/com/term/tankgame/GameObject.java" />
+        <option value="$PROJECT_DIR$/src/com/term/tankgame/Window.java" />
+        <option value="$PROJECT_DIR$/src/com/term/tankgame/Handler.java" />
+        <option value="$PROJECT_DIR$/src/com/term/tankgame/Bullets.java" />
+        <option value="$PROJECT_DIR$/src/com/term/tankgame/Wall.java" />
+        <option value="$PROJECT_DIR$/src/com/term/tankgame/BreakWall.java" />
+        <option value="$PROJECT_DIR$/src/com/term/tankgame/HUD.java" />
+        <option value="$PROJECT_DIR$/src/com/term/tankgame/KeyInput.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/com/term/tankgame/ID.java" />
+        <option value="$PROJECT_DIR$/src/com/term/tankgame/SuperHealth.java" />
+        <option value="$PROJECT_DIR$/src/com/term/tankgame/Tank.java" />
+        <option value="$PROJECT_DIR$/src/com/term/tankgame/Game.java" />
+        <option value="$PROJECT_DIR$/src/com/term/tankgame/Camera.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-11" />
+    <option name="x" value="-12" />
     <option name="width" value="1194" />
-    <option name="height" value="1454" />
+    <option name="height" value="1455" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -180,41 +162,45 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="csc413-secondgame-dayjames12" type="b2602c69:ProjectViewProjectNode" />
-              <item name="csc413-secondgame-dayjames12" type="462c0819:PsiDirectoryNode" />
+              <item name="csc413-tankgame-dayjames12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="csc413-tankgame-dayjames12" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="csc413-secondgame-dayjames12" type="b2602c69:ProjectViewProjectNode" />
-              <item name="csc413-secondgame-dayjames12" type="462c0819:PsiDirectoryNode" />
+              <item name="csc413-tankgame-dayjames12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="csc413-tankgame-dayjames12" type="462c0819:PsiDirectoryNode" />
               <item name="jar" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="csc413-secondgame-dayjames12" type="b2602c69:ProjectViewProjectNode" />
-              <item name="csc413-secondgame-dayjames12" type="462c0819:PsiDirectoryNode" />
+              <item name="csc413-tankgame-dayjames12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="csc413-tankgame-dayjames12" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="csc413-tankgame-dayjames12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="csc413-tankgame-dayjames12" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="Tile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="csc413-tankgame-dayjames12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="csc413-tankgame-dayjames12" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="csc413-secondgame-dayjames12" type="b2602c69:ProjectViewProjectNode" />
-              <item name="csc413-secondgame-dayjames12" type="462c0819:PsiDirectoryNode" />
+              <item name="csc413-tankgame-dayjames12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="csc413-tankgame-dayjames12" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="secondGame" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="csc413-secondgame-dayjames12" type="b2602c69:ProjectViewProjectNode" />
-              <item name="csc413-secondgame-dayjames12" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="secondGame" type="462c0819:PsiDirectoryNode" />
-              <item name="Bricks" type="462c0819:PsiDirectoryNode" />
+              <item name="tankgame" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -222,15 +208,19 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555614271589" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../csc413-tankgame-dayjames12" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555614209107" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../csc667-su19-Team02" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.term.tankgame" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -245,24 +235,27 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.Game">
-    <configuration name="Game" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.term.secondGame.Game" />
-      <module name="csc413-secondgame-dayjames12" />
+    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.term.tankgame.Game" />
+      <module name="csc413-tankgame-dayjames12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.term.tankgame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="csc413-secondgame-dayjames12.jar" type="JarApplication" temporary="true">
-      <option name="JAR_PATH" value="$PROJECT_DIR$/jar/csc413-secondgame-dayjames12.jar" />
+    <configuration name="csc413-tankgame-dayjames12.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/jar/csc413-tankgame-dayjames12.jar" />
       <method v="2" />
     </configuration>
-    <list>
-      <item itemvalue="Application.Game" />
-      <item itemvalue="JAR Application.csc413-secondgame-dayjames12.jar" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JAR Application.csc413-secondgame-dayjames12.jar" />
+        <item itemvalue="Application.Game" />
+        <item itemvalue="JAR Application.csc413-tankgame-dayjames12.jar" />
       </list>
     </recent_temporary>
   </component>
@@ -271,83 +264,139 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="57d0bd52-80ce-49ac-abcf-e03ab22cc3dd" name="Default Changelist" comment="" />
-      <created>1555610630458</created>
+      <changelist id="a1141f4d-d8ef-4259-a060-1ea4a19fa0d9" name="Default Changelist" comment="" />
+      <created>1552587249786</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1555610630458</updated>
-      <workItem from="1555610636242" duration="4000" />
-      <workItem from="1555610850203" duration="3481000" />
-      <workItem from="1555614675469" duration="136000" />
-      <workItem from="1555956569664" duration="7005000" />
-      <workItem from="1556563168460" duration="9460000" />
-      <workItem from="1556821061907" duration="622000" />
-      <workItem from="1556821721192" duration="14634000" />
-      <workItem from="1557174112036" duration="1722000" />
-      <workItem from="1557726538976" duration="2435000" />
-      <workItem from="1557771363774" duration="197000" />
-      <workItem from="1557968285508" duration="2222000" />
+      <updated>1552587249786</updated>
+      <workItem from="1552587254217" duration="32000" />
+      <workItem from="1552933202450" duration="18000" />
+      <workItem from="1553020320776" duration="3638000" />
+      <workItem from="1553106321121" duration="13023000" />
+      <workItem from="1553562495809" duration="11076000" />
+      <workItem from="1554747198454" duration="8979000" />
+      <workItem from="1554923702288" duration="8926000" />
+      <workItem from="1554946841148" duration="83000" />
+      <workItem from="1555005318272" duration="13579000" />
+      <workItem from="1555610911497" duration="3017000" />
+      <workItem from="1555958084004" duration="1110000" />
+      <workItem from="1556042448928" duration="86000" />
+      <workItem from="1556255740947" duration="2793000" />
+      <workItem from="1556563796302" duration="1327000" />
+      <workItem from="1556576035387" duration="749000" />
+      <workItem from="1556824329403" duration="252000" />
+      <workItem from="1557007954800" duration="2090000" />
+      <workItem from="1557013675716" duration="30000" />
+      <workItem from="1557014247889" duration="637000" />
+      <workItem from="1557771380937" duration="345000" />
+      <workItem from="1557972508807" duration="6162000" />
+      <workItem from="1560388059623" duration="22000" />
+      <workItem from="1560388438115" duration="47000" />
+      <workItem from="1561577524695" duration="597000" />
+      <workItem from="1564017146758" duration="20000" />
     </task>
-    <task id="LOCAL-00001" summary="Basic layout for project">
-      <created>1555614205477</created>
+    <task id="LOCAL-00001" summary="Addded info">
+      <created>1553022063831</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1555614205477</updated>
+      <updated>1553022063831</updated>
     </task>
-    <task id="LOCAL-00002" summary="Added all resources. Drew background, solid walls, border, and Katch for level 1.">
-      <created>1556579135408</created>
+    <task id="LOCAL-00002" summary="Setting up project structure">
+      <created>1553022092178</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1556579135408</updated>
+      <updated>1553022092178</updated>
     </task>
-    <task id="LOCAL-00003" summary="Added colored blocks">
-      <created>1557003964863</created>
+    <task id="LOCAL-00003" summary="Added basic empty classes">
+      <created>1553118960932</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1557003964863</updated>
+      <updated>1553118960932</updated>
     </task>
-    <task id="LOCAL-00004" summary="Added pop and started very basic collision">
-      <created>1557016404889</created>
+    <task id="LOCAL-00004" summary="Working on tank rotation">
+      <created>1553562159480</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1557016404889</updated>
+      <updated>1553562159480</updated>
     </task>
-    <task id="LOCAL-00005" summary="Level Change">
-      <created>1557726573357</created>
+    <task id="LOCAL-00005" summary="Added tank images">
+      <created>1553562524802</created>
       <option name="number" value="00005" />
       <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
-      <updated>1557726573357</updated>
+      <updated>1553562524802</updated>
     </task>
-    <task id="LOCAL-00006" summary="Created updated functional jar">
-      <created>1557968948842</created>
+    <task id="LOCAL-00006" summary="Created second hud and working on tanks colliding with each other">
+      <created>1553727461127</created>
       <option name="number" value="00006" />
       <option name="presentableId" value="LOCAL-00006" />
       <option name="project" value="LOCAL" />
-      <updated>1557968948842</updated>
+      <updated>1553727461127</updated>
     </task>
-    <task id="LOCAL-00007" summary="Created updated functional jar">
-      <created>1557972520169</created>
+    <task id="LOCAL-00007" summary="Implemented a tile map">
+      <created>1554232093794</created>
       <option name="number" value="00007" />
       <option name="presentableId" value="LOCAL-00007" />
       <option name="project" value="LOCAL" />
-      <updated>1557972520169</updated>
+      <updated>1554232093794</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Changed from extending canvas to jpanel">
+      <created>1554931567354</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1554931567354</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Implemented split screens and started breakable walls">
+      <created>1554938360607</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1554938360607</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Implemented split screens and started breakable walls">
+      <created>1554946860554</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1554946860554</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Created a functioning jar&#10;Added a simple end game pop up &#10;improved game border collision">
+      <created>1555186868297</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1555186868298</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Added first power up: health">
+      <created>1555188029198</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1555188029198</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Added first power up: health">
+      <created>1555200673960</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1555200673960</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41918000" />
+    <option name="totallyTimeSpent" value="78638000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1519" height="977" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15490061" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16175462" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -355,8 +404,8 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4996573" weight="0.18106508" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3297491" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989719" weight="0.09112426" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -365,8 +414,8 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5003427" side_tool="true" weight="0.1739645" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.26508877" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5010281" side_tool="true" weight="0.2852071" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.21420118" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -378,7 +427,7 @@
       <window_info anchor="right" id="Database" order="8" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15490061" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.123372175" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -386,8 +435,8 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4996573" visible="true" weight="0.19053255" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3297491" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4996573" visible="true" weight="0.1597633" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -396,8 +445,8 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5003427" side_tool="true" weight="0.1739645" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3289941" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5003427" side_tool="true" weight="0.25325444" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.21420118" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -413,25 +462,46 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Basic layout for project" />
-    <MESSAGE value="Added all resources. Drew background, solid walls, border, and Katch for level 1." />
-    <MESSAGE value="Added colored blocks" />
-    <MESSAGE value="Added pop and started very basic collision" />
-    <MESSAGE value="Level Change" />
-    <MESSAGE value="Created updated functional jar" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created updated functional jar" />
+    <MESSAGE value="Addded info" />
+    <MESSAGE value="Setting up project structure" />
+    <MESSAGE value="Added basic empty classes" />
+    <MESSAGE value="Working on tank rotation" />
+    <MESSAGE value="Added tank images" />
+    <MESSAGE value="Created second hud and working on tanks colliding with each other" />
+    <MESSAGE value="Implemented a tile map" />
+    <MESSAGE value="Changed from extending canvas to jpanel" />
+    <MESSAGE value="Implemented split screens and started breakable walls" />
+    <MESSAGE value="Created a functioning jar&#10;Added a simple end game pop up &#10;improved game border collision" />
+    <MESSAGE value="Added first power up: health" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added first power up: health" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com.term.main/Main.java" />
-    <entry file="uml://JavaScript-modules-diagram/C:/Users/james/Development/csc413-secondgame-dayjames12">
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jar/deletemeafteraddingjarfile.txt" />
+    <entry file="file://$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/term/tankgame/Trail.java" />
+    <entry file="uml://JavaScript-modules-diagram/C:/Users/james/Development/csc413-tankgame-dayjames12/src">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
           <ID>JavaScript-modules-diagram</ID>
-          <OriginalElement>$PROJECT_DIR$</OriginalElement>
+          <OriginalElement>$PROJECT_DIR$/src</OriginalElement>
           <nodes />
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="240.0" y="240.0" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="624.0" y="397.0" />
           <SelectedNodes />
           <Categories>
             <Category>All</Category>
@@ -441,47 +511,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="uml://JAVA/com.term.secondGame">
+    <entry file="file://$PROJECT_DIR$/Tank Game Class Diagram.uml" />
+    <entry file="uml://JAVA/com.term.tankgame">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
           <ID>JAVA</ID>
-          <OriginalElement>com.term.secondGame</OriginalElement>
+          <OriginalElement>com.term.tankgame</OriginalElement>
           <nodes>
-            <node x="-125.0" y="39.27272727272731">com.term.secondGame.Game</node>
-            <node x="40.54545454545456" y="-29.272727272727252">com.term.secondGame.KeyInput</node>
-            <node x="-282.0" y="-29.0">com.term.secondGame.BufferedImageLoader</node>
-            <node x="-138.0" y="180.0">com.term.secondGame.Handler</node>
-            <node x="20.0" y="218.0">com.term.secondGame.GameObject</node>
-            <node x="-129.0" y="273.0">com.term.secondGame.ID</node>
+            <node x="0.0" y="350.07271439758205">com.term.tankgame.KeyInput</node>
+            <node x="153.05492956096407" y="276.07271439758205">com.term.tankgame.Player</node>
+            <node x="365.9108212110027" y="142.05379956774357">com.term.tankgame.Specials</node>
+            <node x="139.0" y="350.07271439758205">com.term.tankgame.Window</node>
+            <node x="198.8242708215996" y="139.38820497766292">com.term.tankgame.GameObject</node>
+            <node x="238.0" y="424.07271439758205">com.term.tankgame.ID</node>
+            <node x="0.0" y="138.13094718779251">com.term.tankgame.Enemy</node>
+            <node x="276.0" y="350.07271439758205">com.term.tankgame.Handler</node>
+            <node x="0.0" y="424.07271439758205">com.term.tankgame.Game</node>
+            <node x="123.0" y="424.07271439758205">com.term.tankgame.Hud</node>
+            <node x="154.15720588215697" y="0.0">com.term.tankgame.Bullets</node>
           </nodes>
           <notes />
           <edges>
-            <edge source="com.term.secondGame.Handler" target="com.term.secondGame.GameObject">
-              <point x="5.000139227288578" y="0.0" />
-              <point x="5.000139227288571" y="0.0" />
-            </edge>
-            <edge source="com.term.secondGame.Handler" target="com.term.secondGame.ID">
+            <edge source="com.term.tankgame.Enemy" target="com.term.tankgame.GameObject">
               <point x="0.0" y="0.0" />
               <point x="0.0" y="0.0" />
             </edge>
-            <edge source="com.term.secondGame.Game" target="com.term.secondGame.Handler">
-              <point x="5.169396120438044" y="0.0" />
-              <point x="5.169396120438051" y="0.0" />
+            <edge source="com.term.tankgame.Bullets" target="com.term.tankgame.GameObject">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
-            <edge source="com.term.secondGame.GameObject" target="com.term.secondGame.ID">
-              <point x="-7.645248314253074" y="0.0" />
-              <point x="-7.645248314253081" y="0.0" />
+            <edge source="com.term.tankgame.Specials" target="com.term.tankgame.GameObject">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
-            <edge source="com.term.secondGame.Game" target="com.term.secondGame.BufferedImageLoader">
-              <point x="4.541099085968767" y="2.0924672258875745" />
-              <point x="4.541099085968767" y="2.0924672258875603" />
-            </edge>
-            <edge source="com.term.secondGame.Game" target="com.term.secondGame.KeyInput">
-              <point x="0.0" y="-6.092474495224721" />
-              <point x="0.0" y="-6.092474495224721" />
+            <edge source="com.term.tankgame.Player" target="com.term.tankgame.GameObject">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-184.0" y="-44.0" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="192.0" y="89.0" />
           <SelectedNodes />
           <Categories />
           <SCOPE>All</SCOPE>
@@ -489,109 +557,142 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/term/secondGame/BufferedImageLoader.java">
+    <entry file="file://$PROJECT_DIR$/csc413-tankgame-dayjames12.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="833" selection-start-line="833" selection-end-line="833" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/term/tankgame/Specials.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/term/tankgame/Enemy.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/term/tankgame/NewHUD.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/term/tankgame/TileEngine.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/term/tankgame/DrawPanel.java" />
+    <entry file="file://$PROJECT_DIR$/Tile/simpleTiles.png" />
+    <entry file="file://$PROJECT_DIR$/Tile/map.txt" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.desktop/javax/swing/JComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="4348" column="15" selection-start-line="4348" selection-start-column="15" selection-end-line="4348" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/term/tankgame/Window.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/term/tankgame/SuperHealth.java" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="184">
+            <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/term/tankgame/ID.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/term/tankgame/Bullets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/term/tankgame/Wall.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
-          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#481#482#0" expanded="true" />
+            <element signature="e#538#539#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/term/tankgame/BreakWall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/Tile/level1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/term/tankgame/TileLayer.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/term/tankgame/Spawn.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/term/tankgame/Tank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3358">
+          <caret line="149" column="34" selection-start-line="149" selection-start-column="34" selection-end-line="149" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/term/tankgame/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3427">
+          <caret line="155" selection-start-line="155" selection-end-line="155" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.desktop/javax/imageio/ImageIO.java">
+    <entry file="file://$PROJECT_DIR$/src/com/term/tankgame/Handler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/term/tankgame/HUD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="989">
+          <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/term/tankgame/BufferedImageLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/term/tankgame/KeyInput.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
-          <caret line="1399" column="18" selection-start-line="1399" selection-start-column="18" selection-end-line="1399" selection-end-column="18" />
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/term/secondGame/Bricks/RedBlock.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/term/secondGame/Bricks/SolidBlock.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/term/secondGame/Handler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/term/secondGame/KeyInput.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
-          <folding>
-            <element signature="e#403#404#0" expanded="true" />
-            <element signature="e#506#507#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/term/secondGame/ID.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/term/secondGame/GameObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/term/secondGame/Bricks/Block.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="920">
-          <caret line="46" column="52" selection-start-line="46" selection-start-column="52" selection-end-line="46" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/term/secondGame/Bricks/Wall.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#575#576#0" expanded="true" />
-            <element signature="e#653#654#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/term/secondGame/Katch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="49" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/term/secondGame/Pop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="966">
-          <caret line="42" column="18" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/term/secondGame/Game.java">
+    <entry file="file://$PROJECT_DIR$/src/com/term/tankgame/GameObject.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
-          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/term/tankgame/Camera.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="22" column="53" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
         </state>
       </provider>
     </entry>
@@ -601,7 +702,7 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>csc413-secondgame-dayjames12:jar</last-edited>
+          <last-edited>csc413-tankgame-dayjames12:jar</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -625,7 +726,6 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Bundled Protobuf Distribution</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -649,11 +749,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>csc413-secondgame-dayjames12</last-edited>
+          <last-edited>csc413-tankgame-dayjames12</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
